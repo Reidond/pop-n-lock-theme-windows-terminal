@@ -2,6 +2,8 @@
 
 This is colors from terminal in Pop N' Lock Theme by Luxcium. Go check out this amazing theme for VSCode
 
+<img src="pop-n-lock.original.png" alt="pop-n-lock.original"/>
+
 ## Installing
 
 1. Open your Windows Terminal Profile
