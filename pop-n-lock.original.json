@@ -1,0 +1,21 @@
+{
+  "background": "#221E25",
+  "black": "#221B25",
+  "blue": "#458588",
+  "brightBlack": "#928374",
+  "brightBlue": "#99C6CA",
+  "brightCyan": "#8AE180",
+  "brightGreen": "#B5C033",
+  "brightPurple": "#D66282",
+  "brightRed": "#F42C3E",
+  "brightWhite": "#DDCCAA",
+  "brightYellow": "#FABE2F",
+  "cyan": "#689E6A",
+  "foreground": "#DDBC9A",
+  "green": "#98971A",
+  "name": "Pop N' Lock",
+  "purple": "#B16286",
+  "red": "#CC241D",
+  "white": "#C0B0A0",
+  "yellow": "#E7A931"
+}
